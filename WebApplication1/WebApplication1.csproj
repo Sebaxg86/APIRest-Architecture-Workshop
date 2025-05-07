@@ -20,7 +20,10 @@
       <Folder Include="Exceptions\" />
       <Folder Include="Mappers\" />
       <Folder Include="Middlewares\" />
-      <Folder Include="Repositories\" />
+      <Folder Include="Repositories\Cards\" />
+      <Folder Include="Repositories\Categories\" />
+      <Folder Include="Repositories\Expenses\" />
+      <Folder Include="Repositories\Logs\" />
       <Folder Include="Services\" />
     </ItemGroup>
 
