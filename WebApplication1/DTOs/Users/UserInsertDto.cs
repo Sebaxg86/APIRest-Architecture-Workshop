@@ -1,6 +1,6 @@
 namespace WebApplication1.DTOs.Users;
 
-public class UserInsertIDto
+public class UserInsertDto
 {
     public string? Name { get; set; }
     
