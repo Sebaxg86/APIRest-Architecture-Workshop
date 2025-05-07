@@ -14,7 +14,9 @@
 
     <ItemGroup>
       <Folder Include="Controllers\" />
-      <Folder Include="DTOs\" />
+      <Folder Include="DTOs\Cards\" />
+      <Folder Include="DTOs\Categories\" />
+      <Folder Include="DTOs\Expenses\" />
       <Folder Include="Exceptions\" />
       <Folder Include="Mappers\" />
       <Folder Include="Middlewares\" />
