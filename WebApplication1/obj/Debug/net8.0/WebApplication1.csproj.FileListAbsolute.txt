@@ -31,3 +31,11 @@
 /Users/sebaschairez/Desktop/Arquitectura API Rest/Project/WebApplication1/WebApplication1/obj/Debug/net8.0/WebApplication1.pdb
 /Users/sebaschairez/Desktop/Arquitectura API Rest/Project/WebApplication1/WebApplication1/obj/Debug/net8.0/WebApplication1.genruntimeconfig.cache
 /Users/sebaschairez/Desktop/Arquitectura API Rest/Project/WebApplication1/WebApplication1/obj/Debug/net8.0/ref/WebApplication1.dll
+/Users/sebaschairez/Desktop/Arquitectura API Rest/Project/WebApplication1/WebApplication1/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/sebaschairez/Desktop/Arquitectura API Rest/Project/WebApplication1/WebApplication1/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/sebaschairez/Desktop/Arquitectura API Rest/Project/WebApplication1/WebApplication1/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sebaschairez/Desktop/Arquitectura API Rest/Project/WebApplication1/WebApplication1/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/sebaschairez/Desktop/Arquitectura API Rest/Project/WebApplication1/WebApplication1/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sebaschairez/Desktop/Arquitectura API Rest/Project/WebApplication1/WebApplication1/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sebaschairez/Desktop/Arquitectura API Rest/Project/WebApplication1/WebApplication1/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sebaschairez/Desktop/Arquitectura API Rest/Project/WebApplication1/WebApplication1/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
